@@ -1,0 +1,9 @@
+{application_spec,
+ [
+     {appl_name,"control"},
+     {vsn,"0.1.0"},
+     {app,control}, 
+     {erl_args," "},
+     {git_path,"https://github.com/joq62/control.git"}
+ ]
+}.

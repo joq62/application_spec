@@ -1,0 +1,9 @@
+{application_spec,
+ [
+     {appl_name,"resource_discovery"},
+     {vsn,"0.1.0"},
+     {app,rd}, 
+     {erl_args," "},
+     {git_path,"https://github.com/joq62/resource_discovery.git"}
+ ]
+}.

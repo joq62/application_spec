@@ -1,0 +1,9 @@
+{application_spec,
+ [
+     {appl_name,"divi"},
+     {vsn,"0.1.0"},
+     {app,divi}, 
+     {erl_args," "},
+     {git_path,"https://github.com/joq62/divi.git"}
+ ]
+}.
